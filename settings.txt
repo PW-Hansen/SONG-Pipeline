@@ -1,0 +1,3 @@
+deltav 			= 0.5	# Default value = 0.5	#
+lag_max 		= 100	# Default value = 100	#
+spectrum_cutoff = 100	# Devault value = 100 	#
